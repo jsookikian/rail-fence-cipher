@@ -13,5 +13,5 @@ make cipher
 ## Usage
 
 ```bash
-~$: ./cipher <input_file>
+$ ./cipher <input_file>
 ```
